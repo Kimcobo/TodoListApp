@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TodoListApp/static/css/main.5fd11e2a.css",
+    "main.css": "/TodoListApp/static/css/main.d602be34.css",
     "main.js": "/TodoListApp/static/js/main.e5a99711.js",
     "static/js/453.56f46472.chunk.js": "/TodoListApp/static/js/453.56f46472.chunk.js",
     "static/media/fa-solid-900.ttf": "/TodoListApp/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
@@ -12,12 +12,12 @@
     "static/media/fa-v4compatibility.ttf": "/TodoListApp/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
     "static/media/fa-v4compatibility.woff2": "/TodoListApp/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/TodoListApp/index.html",
-    "main.5fd11e2a.css.map": "/TodoListApp/static/css/main.5fd11e2a.css.map",
+    "main.d602be34.css.map": "/TodoListApp/static/css/main.d602be34.css.map",
     "main.e5a99711.js.map": "/TodoListApp/static/js/main.e5a99711.js.map",
     "453.56f46472.chunk.js.map": "/TodoListApp/static/js/453.56f46472.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5fd11e2a.css",
+    "static/css/main.d602be34.css",
     "static/js/main.e5a99711.js"
   ]
 }
